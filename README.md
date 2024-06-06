@@ -1,5 +1,7 @@
 # Biometric-Suicidal-Ideation-Database
 
+**If you want to apply for this database, please download the license and follow the introduction.**
+
 Database files:
 - GSR_raw_signals: The raw GSR signals.
 - PPG_raw_signals: The raw PPG signals.
