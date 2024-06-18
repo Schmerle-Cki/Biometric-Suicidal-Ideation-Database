@@ -9,4 +9,4 @@ Database files:
 - PPG_feature: 
 [     "entropy",     "mean_T",     "std_T",     "mean_T1",     "std_T1",     "mean_T2",     "std_T2",     "mean_RTR",     "std_RTR",     "mean_A1",     "std_A1",     "mean_RPR",     "std_RPR",     "mean_H1",     "std_H1",     "mean_A2",     "std_A2",     "mean_H2",     "std_H2",     "mean_RAR",     "std_RAR",     "mean_A",     "std_A",     "mean_amplitude",     "std_amplitude",     "TimeDuration",     "Energy",     "BandWidth",     "TBP",     "IBI",     "HR",     "SDNN",     "RMSSD",     "pNN20",     "pNN50",     "SD1",     "SD2",     "S" ]
 
-- Label: TN-clean negative samples (healthy cases), TP-positive samples (cases with SI), UN-noised negative samples (cases with intermediate or low label confidence)
+- Label: Indicated by the prefix of files. TN-clean negative samples (healthy cases), TP-positive samples (cases with SI), UN-noised negative samples (cases with intermediate or low label confidence), FK_UN_FR_TP-three TP samples mix into the UN pool.
